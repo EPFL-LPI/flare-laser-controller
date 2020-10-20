@@ -1,0 +1,6 @@
+{
+    "app_name": "Flare Laser Controller",
+    "main_module": "src/main/python/main.py",
+    "author": "Brian Carlsen",
+    "hidden_imports": []
+}

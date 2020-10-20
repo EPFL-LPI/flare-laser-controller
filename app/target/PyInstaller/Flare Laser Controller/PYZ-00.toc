@@ -1,0 +1,4 @@
+('C:\\Users\\lspmpc\\Documents\\Python '
+ 'Scripts\\flare-laser\\app\\target\\PyInstaller\\Flare Laser '
+ 'Controller\\PYZ-00.pyz',
+ [])
